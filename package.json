@@ -17,8 +17,7 @@
   },
   
   "author": "Mikhail",
-  "license": "ISC",
-  "homepage": "https://github.com/Doroshenko23/Unit#readme",
+  "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.24.1",
     "@babel/core": "^7.24.3",
